@@ -41,9 +41,5 @@ To demonstrate the practical application of this model for environmental monitor
 
 * **Live Application:** https://huggingface.co/spaces/joaoalexandre14/eurosat-land-classification
 
-## 8. Contributions
-* **Catarina Silva:** [To be filled]
-* **João Alexandre:** [To be filled]
-
-## 9. References
+## 8. References
 * The geo-referenced dataset EuroSAT is made publicly available here: https://www.kaggle.com/datasets/waseemalastal/eurosat-rgb-dataset[cite: 1]
