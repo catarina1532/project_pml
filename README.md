@@ -34,8 +34,12 @@ Accurate land-use mapping is essential for environmental monitoring, urban plann
 ## 5. Results
 * **Test Accuracy:** ~95.4%
 * **Macro F1-Score:** ~0.95
-* [Placeholder: Insert Accuracy/Loss Plot here]
-* [Placeholder: Insert Confusion Matrix here]
+
+### Training and Validation Metrics
+![Accuracy and Loss Plot](loss_over_epochs-accuracy_over_epochs)
+
+### Confusion Matrix
+![Confusion Matrix](confusion_matrix.png)
 
 ## 6. Analysis
 The model demonstrates strong convergence with stable learning and limited overfitting, overcoming the initial challenges. Classes such as Forest, Residential, and SeaLake achieved very high precision and recall (97-99%). The majority of misclassifications occurred between visually and spectrally similar land-cover categories, namely HerbaceousVegetation, Pasture, and PermanentCrop.
