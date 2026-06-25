@@ -1,7 +1,9 @@
 # Land Use Classification of Satellite Imagery using Transfer Learning
 
+
 **Course:** Practical Machine Learning | Master's in Green Data Science (2025-2026)[cite: 2]
 **Institution:** Instituto Superior de Agronomia, ULisboa[cite: 2]
+
 **Team:** 
 * Catarina Silva (nº 23421)[cite: 1]
 * João Alexandre (nº 29602)
