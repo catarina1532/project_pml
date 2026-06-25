@@ -36,7 +36,7 @@ Accurate land-use mapping is essential for environmental monitoring, urban plann
 * **Macro F1-Score:** ~0.95
 
 ### Training and Validation Metrics
-![Accuracy and Loss Plot](loss_over_epochs-accuracy_over_epochs)
+![Accuracy and Loss Plot](loss_over_epochs-accuracy_over_epochs.png)
 
 ### Confusion Matrix
 ![Confusion Matrix](confusion_matrix.png)
