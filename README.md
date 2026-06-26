@@ -3,6 +3,7 @@
 
 **Course:** 
 Practical Machine Learning | Master's in Green Data Science (2025-2026)
+
 **Institution:** 
 Instituto Superior de Agronomia, ULisboa
 
