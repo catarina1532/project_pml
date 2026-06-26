@@ -27,7 +27,7 @@ Accurate land-use mapping is essential for environmental monitoring, urban plann
 ## 4. Methods
 * **Architecture:** Transfer Learning utilizing a pre-trained ResNet18 model implemented in PyTorch.
 * **Phase 1 (Feature Extraction):** All convolutional layers were frozen; only the final classification layer (modified for ten outputs) was trained (Epochs: 5, Learning Rate: 1e-3).
-* **Phase 2 (Fine-Tuning):** The final residual block (`layer4`) was unfrozen and fine-tuned using a smaller learning rate to better adapt high-level features to satellite imagery (Epochs: 10, Learning Rate: 1e-4, using a StepLR scheduler).
+* **Phase 2 (Fine-Tuning):** The final residual block (`layer4`) was unfrozen and fine-tuned using a smaller learning rate to better adapt high-level features to satellite imagery (Epochs: 10, Learning Rate: 1e-4).
 * **Loss Function:** CrossEntropyLoss.
 * **Optimizer:** SGD with momentum.
 
