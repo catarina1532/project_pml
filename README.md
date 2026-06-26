@@ -53,7 +53,7 @@ To demonstrate the practical application of this model for environmental monitor
 * The geo-referenced dataset EuroSAT is made publicly available here: https://www.kaggle.com/datasets/waseemalastal/eurosat-rgb-dataset
 
 ## 9. Contributions 
-Catarina Silva: Data preparation, model development, experimentation, and 
-documentation 
-João Alexandre: Deployment implementation, experimentation, result analysis, and 
+* Catarina Silva: Data preparation, model development, experimentation, and 
+documentation
+* João Alexandre: Deployment implementation, experimentation, result analysis, and 
 documentation
